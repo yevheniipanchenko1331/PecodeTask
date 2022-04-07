@@ -9,7 +9,7 @@
             <class name="PecodeTest">
                 <methods>
                     <exclude name="presentOfElementsTest"/>
-                    <exclude name="incorrectLoginDataProvider"/>
+                    <exclude name="unsuccessfulLoginErrorMessageTest"/>
                     <include name="correctLoginTest"/>
                 </methods>
             </class>
